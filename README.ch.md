@@ -23,7 +23,7 @@
 [![矢量 NLAST.pdf](https://gitee.com/ChenZhu-Xie/PhD_academia/raw/master/img/7.1__@page_26_←_Python__3.5_year_-_2023.12.28.png)](https://gitee.com/ChenZhu-Xie/PhD_academia/blob/master/1__1.1__Group_Meeting/6.1__水彩花鸟_←_Python__3.0_year_-_2023.3.27.pdf "矢量 NLAST.pdf")
 
 ## 介绍
-* 我的 组会演讲 和 子项目
+* 博士 研究生时期 的 个人组会演讲 和 子项目
     * 「重要内容」以「文件」的形式，放在「一级目录」中
     * 「文件」的「详细信息」，以「文件夹」的形式，放在与「文件」有「相同序号」的「二级目录」中
 

@@ -23,7 +23,7 @@
 [![Vector NLAST.pdf](https://github.com/ChenZhu-Xie/PhD_academia/raw/master/img/7.1__@page_26_←_Python__3.5_year_-_2023.12.28.png)](https://github.com/ChenZhu-Xie/PhD_academia/blob/master/1__1.1__Group_Meeting/6.1__水彩花鸟_←_Python__3.0_year_-_2023.3.27.pdf "Vector NLAST.pdf")
 
 ## Description
-* Personal group meeting speeches and side projects
+* Personal group meeting speeches and side projects during PhD studies
     * *Important content* is placed as *files* in the *primary directory*
     * The *detailed information* of *the file* is placed in the form of *a folder* in the *secondary directory* with *the same serial number* as *the file*
 
