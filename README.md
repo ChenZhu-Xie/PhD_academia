@@ -3,21 +3,21 @@
 # PhD Personal Academia
 
 ## About
-* This repo 👉 [PhD academia](https://github.com/ChenZhu-Xie/PhD_academia)
+* This repo 👉 [博士 学术](https://github.com/ChenZhu-Xie/PhD_academia)
     * can be merged with the repo 👉 [PhD activities](https://github.com/ChenZhu-Xie/PhD_activities)
         * The 2 repos together「fully described」my PhD career
-    * Contains repo 👉 [PhD academia 0.0-0.5 year](https://github.com/ChenZhu-Xie/PhD_academia)
-    * Contains repo 👉 [PhD academia 0.5-1.0 year](https://github.com/ChenZhu-Xie/PhD_academia__0.5-1.0_year)
-    * Contains repo 👉 [PhD academia 1.0-1.5 year](https://github.com/ChenZhu-Xie/PhD_academia__1.0-1.5_year)
-    * Contains repo 👉 [PhD academia 1.5-2.0 year](https://github.com/ChenZhu-Xie/PhD_academia__1.5-2.0_year)
-    * Contains repo 👉 [PhD academia 2.0-2.5 year](https://github.com/ChenZhu-Xie/PhD_academia__2.0-2.5_year)
-    * Contains repo 👉 [PhD academia 2.5-3.0 year](https://github.com/ChenZhu-Xie/PhD_academia__2.5-3.0_year)
-    * Relates to repo 👉 [postgraduate academia](https://github.com/ChenZhu-Xie/postgraduate_academia)
+    * Contains repo 👉 [博士 学术 0.0-0.5 year](https://github.com/ChenZhu-Xie/PhD_academia)
+    * Contains repo 👉 [博士 学术 0.5-1.0 year](https://github.com/ChenZhu-Xie/PhD_academia__0.5-1.0_year)
+    * Contains repo 👉 [博士 学术 1.0-1.5 year](https://github.com/ChenZhu-Xie/PhD_academia__1.0-1.5_year)
+    * Contains repo 👉 [博士 学术 1.5-2.0 year](https://github.com/ChenZhu-Xie/PhD_academia__1.5-2.0_year)
+    * Contains repo 👉 [博士 学术 2.0-2.5 year](https://github.com/ChenZhu-Xie/PhD_academia__2.0-2.5_year)
+    * Contains repo 👉 [博士 学术 2.5-3.0 year](https://github.com/ChenZhu-Xie/PhD_academia__2.5-3.0_year)
+    * Relates to repo 👉 [硕士 学术](https://github.com/ChenZhu-Xie/postgraduate_academia)
         * can be merged with repo 👉 [postgraduate courses](https://github.com/ChenZhu-Xie/postgraduate_courses) and repo 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities)
             * The 3 repos together「fully described」my postgraduate career
-        * Contains repo 👉 [postgraduate academia 0.0-1.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__0.0-1.0_year)
-        * Contains repo 👉 [postgraduate academia 1.0-1.5 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.0-1.5_year)
-        * Contains repo 👉 [postgraduate academia 1.5-2.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.5-2.0_year)
+        * Contains repo 👉 [硕士 学术 0.0-1.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__0.0-1.0_year)
+        * Contains repo 👉 [硕士 学术 1.0-1.5 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.0-1.5_year)
+        * Contains repo 👉 [硕士 学术 1.5-2.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.5-2.0_year)
 * 中文「自述文档」㊥ 👉 [博士 学术](https://gitee.com/ChenZhu-Xie/PhD_academia)
 
 [![Vector NLAST.pdf](https://github.com/ChenZhu-Xie/PhD_academia/raw/master/img/7.1__@page_26_←_Python__3.5_year_-_2023.12.28.png)](https://github.com/ChenZhu-Xie/PhD_academia/blob/master/1__1.1__Group_Meeting/6.1__水彩花鸟_←_Python__3.0_year_-_2023.3.27.pdf "Vector NLAST.pdf")
@@ -37,7 +37,7 @@
     * and the background image size cannot adapt to the browser window size. -->
 
 ## History
-* This project 👉 [PhD academia](https://github.com/ChenZhu-Xie/PhD_academia) was launched
+* This project 👉 [博士 学术](https://github.com/ChenZhu-Xie/PhD_academia) was launched
     * (Personal time) by 24~27-year-old little Xie
     * (World time) during 2022 - 2025
     * (Personal stage) when I was a PhD (0.0~3.0)
