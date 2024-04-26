@@ -35,7 +35,7 @@
     * and the background image size cannot adapt to the browser window size. -->
 
 ## History
-* This project 👉 [PhD activities](https://github.com/ChenZhu-Xie/PhD_activities) was launched
+* This project 👉 [PhD academia](https://github.com/ChenZhu-Xie/PhD_academia) was launched
     * (Personal time) by 24~27-year-old little Xie
     * (World time) during 2022 - 2025
     * (Personal stage) when I was a PhD (0.0~3.0)

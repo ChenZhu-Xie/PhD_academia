@@ -38,7 +38,7 @@
 * 该仓库 👉 [博士 活动](https://gitee.com/ChenZhu-Xie/PhD_activities)
     * （个人时间）由 24 - 27 岁小谢
     * （世界时间）在 2022 - 2025 年的
-    * （个人阶段）博士 研究生阶段 创建的
+    * （个人阶段）博士 研究生阶段 创建的 (0.0~3.0)
 
 [![Excel_VBA for 小车 の 工作流.mp4](https://gitee.com/ChenZhu-Xie/PhD_activities/raw/master/img/Excel_VBA_for_her_WorkFlow.png)](https://www.bilibili.com/video/BV1c1421Z7K7 "Excel_VBA for 小车 の 工作流.mp4")
 
