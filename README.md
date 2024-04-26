@@ -4,14 +4,14 @@
 
 ## About
 * This repo 👉 [PhD academia](https://github.com/ChenZhu-Xie/PhD_academia)
-    * can be merged with the repo 👉 [PhD activities](https://github.com/ChenZhu-Xie/PhD_activities)
-        * The 2 repos together「fully described」my PhD career
     * Contains repo 👉 [PhD academia 0.0-0.5 year](https://github.com/ChenZhu-Xie/PhD_academia)
     * Contains repo 👉 [PhD academia 0.5-1.0 year](https://github.com/ChenZhu-Xie/PhD_academia__0.5-1.0_year)
     * Contains repo 👉 [PhD academia 1.0-1.5 year](https://github.com/ChenZhu-Xie/PhD_academia__1.0-1.5_year)
     * Contains repo 👉 [PhD academia 1.5-2.0 year](https://github.com/ChenZhu-Xie/PhD_academia__1.5-2.0_year)
     * Contains repo 👉 [PhD academia 2.0-2.5 year](https://github.com/ChenZhu-Xie/PhD_academia__2.0-2.5_year)
     * Contains repo 👉 [PhD academia 2.5-3.0 year](https://github.com/ChenZhu-Xie/PhD_academia__2.5-3.0_year)
+    * can be merged with the repo 👉 [PhD activities](https://github.com/ChenZhu-Xie/PhD_activities)
+        * The 2 repos together「fully described」my PhD career
     * Relates to repo 👉 [postgraduate academia](https://github.com/ChenZhu-Xie/postgraduate_academia)
         * Contains repo 👉 [postgraduate academia 0.0-1.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__0.0-1.0_year)
         * Contains repo 👉 [postgraduate academia 1.0-1.5 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.0-1.5_year)
