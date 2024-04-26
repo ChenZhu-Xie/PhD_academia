@@ -16,6 +16,8 @@
         * Contains repo 👉 [postgraduate academia 0.0-1.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__0.0-1.0_year)
         * Contains repo 👉 [postgraduate academia 1.0-1.5 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.0-1.5_year)
         * Contains repo 👉 [postgraduate academia 1.5-2.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.5-2.0_year)
+        * can be merged with repo 👉 [postgraduate courses](https://github.com/ChenZhu-Xie/postgraduate_courses) and repo 👉 [postgraduate activities](https://github.com/ChenZhu-Xie/postgraduate_activities)
+            * The 3 repos together「fully described」my postgraduate career
 * 中文「自述文档」㊥ 👉 [博士 学术](https://gitee.com/ChenZhu-Xie/PhD_academia)
 
 [![Vector NLAST.pdf](https://github.com/ChenZhu-Xie/PhD_academia/raw/master/img/7.1__@page_26_←_Python__3.5_year_-_2023.12.28.png)](https://github.com/ChenZhu-Xie/PhD_academia/blob/master/1__1.1__Group_Meeting/6.1__水彩花鸟_←_Python__3.0_year_-_2023.3.27.pdf "Vector NLAST.pdf")
