@@ -7,11 +7,11 @@
     * 与仓库 👉 [博士 活动](https://gitee.com/ChenZhu-Xie/PhD_activities) 一起
         * 二者「完整地描述」了「我的 博士研究生 生涯」
     * 包含仓库 👉 [博士 学术 0.0-0.5 year](https://github.com/ChenZhu-Xie/PhD_academia)
-        * 孕育模型 👉 [NLAST-vector model (私有)](https://github.com/ChenZhu-Xie/NLAST_private)
+        * 孕育模型 👉 [NLAST-vector model (私有)](https://gitee.com/ChenZhu-Xie/NLAST_private)
     * 包含仓库 👉 [博士 学术 0.5-1.0 year](https://github.com/ChenZhu-Xie/PhD_academia__0.5-1.0_year)
-        * 孕育文章 👉 [Berry-Mcleod paper (私有)](https://github.com/ChenZhu-Xie/Berry_Mcleod_paper__private)
+        * 孕育文章 👉 [Berry-Mcleod paper (私有)](https://gitee.com/ChenZhu-Xie/Berry_Mcleod_paper__private)
     * 包含仓库 👉 [博士 学术 1.0-1.5 year](https://github.com/ChenZhu-Xie/PhD_academia__1.0-1.5_year)
-        * 孕育文章 👉 [NLAST-scalar paper (私有)](https://github.com/ChenZhu-Xie/NLAST_scalar_paper__private)
+        * 孕育文章 👉 [NLAST-scalar paper (私有)](https://gitee.com/ChenZhu-Xie/NLAST_scalar_paper__private)
     * 包含仓库 👉 [博士 学术 1.5-2.0 year](https://github.com/ChenZhu-Xie/PhD_academia__1.5-2.0_year)
     * 包含仓库 👉 [博士 学术 2.0-2.5 year](https://github.com/ChenZhu-Xie/PhD_academia__2.0-2.5_year)
     * 包含仓库 👉 [博士 学术 2.5-3.0 year](https://github.com/ChenZhu-Xie/PhD_academia__2.5-3.0_year)
