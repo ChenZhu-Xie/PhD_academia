@@ -6,18 +6,18 @@
 * 该仓库 👉 [博士 学术](https://gitee.com/ChenZhu-Xie/PhD_academia)
     * 与仓库 👉 [博士 活动](https://gitee.com/ChenZhu-Xie/PhD_activities) 一起
         * 二者「完整地描述」了「我的 博士研究生 生涯」
-    * 包含仓库 👉 [博士 学术 0.0-0.5 year](https://gitee.com/ChenZhu-Xie/PhD_academia)
-    * 包含仓库 👉 [博士 学术 0.5-1.0 year](https://gitee.com/ChenZhu-Xie/PhD_academia__0.5-1.0_year)
-    * 包含仓库 👉 [博士 学术 1.0-1.5 year](https://gitee.com/ChenZhu-Xie/PhD_academia__1.0-1.5_year)
-    * 包含仓库 👉 [博士 学术 1.5-2.0 year](https://gitee.com/ChenZhu-Xie/PhD_academia__1.5-2.0_year)
-    * 包含仓库 👉 [博士 学术 2.0-2.5 year](https://gitee.com/ChenZhu-Xie/PhD_academia__2.0-2.5_year)
-    * 包含仓库 👉 [博士 学术 2.5-3.0 year](https://gitee.com/ChenZhu-Xie/PhD_academia__2.5-3.0_year)
+    * 包含仓库 👉 [博士 学术 0.0-0.5 year](https://github.com/ChenZhu-Xie/PhD_academia)
+    * 包含仓库 👉 [博士 学术 0.5-1.0 year](https://github.com/ChenZhu-Xie/PhD_academia__0.5-1.0_year)
+    * 包含仓库 👉 [博士 学术 1.0-1.5 year](https://github.com/ChenZhu-Xie/PhD_academia__1.0-1.5_year)
+    * 包含仓库 👉 [博士 学术 1.5-2.0 year](https://github.com/ChenZhu-Xie/PhD_academia__1.5-2.0_year)
+    * 包含仓库 👉 [博士 学术 2.0-2.5 year](https://github.com/ChenZhu-Xie/PhD_academia__2.0-2.5_year)
+    * 包含仓库 👉 [博士 学术 2.5-3.0 year](https://github.com/ChenZhu-Xie/PhD_academia__2.5-3.0_year)
     * 链接到仓库 👉 [硕士 学术](https://gitee.com/ChenZhu-Xie/postgraduate_academia)
         * 与仓库 👉 [硕士 课程](https://gitee.com/ChenZhu-Xie/postgraduate_courses) 以及仓库 👉 [硕士 活动](https://gitee.com/ChenZhu-Xie/postgraduate_activities) 一起
             * 三者「完整地描述」了「我的 硕士研究生 生涯」
-        * 包含仓库 👉 [硕士 学术 0.0-1.0 year](https://gitee.com/ChenZhu-Xie/postgraduate_academia__0.0-1.0_year)
-        * 包含仓库 👉 [硕士 学术 1.0-1.5 year](https://gitee.com/ChenZhu-Xie/postgraduate_academia__1.0-1.5_year)
-        * 包含仓库 👉 [硕士 学术 1.5-2.0 year](https://gitee.com/ChenZhu-Xie/postgraduate_academia__1.5-2.0_year)
+        * 包含仓库 👉 [硕士 学术 0.0-1.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__0.0-1.0_year)
+        * 包含仓库 👉 [硕士 学术 1.0-1.5 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.0-1.5_year)
+        * 包含仓库 👉 [硕士 学术 1.5-2.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.5-2.0_year)
 * English「README」ⓔ 👉 [博士 学术](https://github.com/ChenZhu-Xie/PhD_academia)
 
 [![矢量 NLAST.pdf](https://gitee.com/ChenZhu-Xie/PhD_academia/raw/master/img/7.1__@page_26_←_Python__3.5_year_-_2023.12.28.png)](https://gitee.com/ChenZhu-Xie/PhD_academia/blob/master/1__1.1__Group_Meeting/6.1__水彩花鸟_←_Python__3.0_year_-_2023.3.27.pdf "矢量 NLAST.pdf")
