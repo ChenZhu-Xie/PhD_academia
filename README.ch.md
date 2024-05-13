@@ -44,9 +44,9 @@
     * （世界时间）在 2022 - 2025 年的
     * （个人阶段）博士 研究生阶段 创建的 (0.0~3.0)
 
-[![高 N.A. - 矢量 NLAST.pdf](https://gitee.com/ChenZhu-Xie/PhD_academia/raw/master/img/8.1__@page_109_←_Python__4.0_year_-_2024.3.12.png)](https://gitee.com/ChenZhu-Xie/PhD_academia/blob/master/2__Side_Projects/8.1__高_N.A._矢量_紧聚焦_←_Python__4.0_year_-_2024.3.12.pdf "高 N.A. - 矢量 NLAST.pdf")
+[![高 N.A. - 矢量 NLAST.pdf](https://gitee.com/ChenZhu-Xie/PhD_academia/raw/master/img/8.1__@page_109_←_Python__4.0_year_-_2024.3.12.png)](https://gitee.com/ChenZhu-Xie/PhD_academia/blob/master/1__Group_Meeting/8.1__高_N.A._矢量_紧聚焦_←_Python__4.0_year_-_2024.3.12.pdf "高 N.A. - 矢量 NLAST.pdf")
 
-[![高 N.A. - 矢量 NLAST.pdf](https://gitee.com/ChenZhu-Xie/PhD_academia/raw/master/img/8.1__@page_125_←_Python__4.0_year_-_2024.3.12.png)](https://gitee.com/ChenZhu-Xie/PhD_academia/blob/master/2__Side_Projects/8.1__高_N.A._矢量_紧聚焦_←_Python__4.0_year_-_2024.3.12.pdf "高 N.A. - 矢量 NLAST.pdf")
+[![高 N.A. - 矢量 NLAST.pdf](https://gitee.com/ChenZhu-Xie/PhD_academia/raw/master/img/8.1__@page_125_←_Python__4.0_year_-_2024.3.12.png)](https://gitee.com/ChenZhu-Xie/PhD_academia/blob/master/1__Group_Meeting/8.1__高_N.A._矢量_紧聚焦_←_Python__4.0_year_-_2024.3.12.pdf "高 N.A. - 矢量 NLAST.pdf")
 
 <!-- ## 软件架构
 软件架构说明
