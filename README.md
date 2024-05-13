@@ -23,14 +23,14 @@
         * Contains repo 👉 [postgraduate academia 1.5-2.0 year](https://github.com/ChenZhu-Xie/postgraduate_academia__1.5-2.0_year)
 * 中文「自述文档」㊥ 👉 [博士 学术](https://gitee.com/ChenZhu-Xie/PhD_academia)
 
-[![Vector NLAST.pdf](https://github.com/ChenZhu-Xie/PhD_academia/raw/master/img/7.1__@page_26_←_Python__3.5_year_-_2023.12.28.png)](https://github.com/ChenZhu-Xie/PhD_academia/blob/master/1__1.1__Group_Meeting/6.1__水彩花鸟_←_Python__3.0_year_-_2023.3.27.pdf "Vector NLAST.pdf")
+[![Vector NLAST.pdf](https://github.com/ChenZhu-Xie/PhD_academia/raw/master/img/7.1__@page_26_←_Python__3.5_year_-_2023.12.28.png)](https://github.com/ChenZhu-Xie/PhD_academia/blob/master/1__Group_Meeting/6.1__水彩花鸟_←_Python__3.0_year_-_2023.3.27.pdf "Vector NLAST.pdf")
 
 ## Description
 * Personal group meeting speeches and side projects during PhD studies
     * *Important content* is placed as *files* in the *primary directory*
     * The *detailed information* of *the file* is placed in the form of *a folder* in the *secondary directory* with *the same serial number* as *the file*
 
-[![Analytic 3D vector non-uniform Fourier crystal optics in arbitrary $\bar{\bar{\varepsilon}}$ dielectric.pptx](https://github.com/ChenZhu-Xie/PhD_academia/raw/master/img/7.1__@page_38_←_Python__3.5_year_-_2023.12.28.png)](https://github.com/ChenZhu-Xie/PhD_academia/blob/master/1__1.1__Group_Meeting/7.1__中期答辩_谢尘竹_←_Python__3.5_year_-_2023.12.28.pdf "Analytic 3D vector non-uniform Fourier crystal optics in arbitrary $\bar{\bar{\varepsilon}}$ dielectric.pptx")
+[![Analytic 3D vector non-uniform Fourier crystal optics in arbitrary $\bar{\bar{\varepsilon}}$ dielectric.pptx](https://github.com/ChenZhu-Xie/PhD_academia/raw/master/img/7.1__@page_38_←_Python__3.5_year_-_2023.12.28.png)](https://github.com/ChenZhu-Xie/PhD_academia/blob/master/1__Group_Meeting/7.1__中期答辩_谢尘竹_←_Python__3.5_year_-_2023.12.28.pdf "Analytic 3D vector non-uniform Fourier crystal optics in arbitrary $\bar{\bar{\varepsilon}}$ dielectric.pptx")
 
 <!-- ## Inplementation
 1. Enter homepage from "Homepage (My Mini Website Portal). lnk".  
@@ -47,9 +47,9 @@
 
 <!-- TEST 666 -->
 
-[![High N.A. - Vector NLAST.pdf](https://github.com/ChenZhu-Xie/PhD_academia/raw/master/img/8.1__@page_109_←_Python__4.0_year_-_2024.3.12.png)](https://github.com/ChenZhu-Xie/PhD_academia/blob/master/2__2.1__Side_Projects_for_Myself/8.1__高_N.A._矢量_紧聚焦_←_Python__4.0_year_-_2024.3.12.pdf "High N.A. - Vector NLAST.pdf")
+[![High N.A. - Vector NLAST.pdf](https://github.com/ChenZhu-Xie/PhD_academia/raw/master/img/8.1__@page_109_←_Python__4.0_year_-_2024.3.12.png)](https://github.com/ChenZhu-Xie/PhD_academia/blob/master/2__Side_Projects/8.1__高_N.A._矢量_紧聚焦_←_Python__4.0_year_-_2024.3.12.pdf "High N.A. - Vector NLAST.pdf")
 
-[![High N.A. - Vector NLAST.pdf](https://github.com/ChenZhu-Xie/PhD_academia/raw/master/img/8.1__@page_125_←_Python__4.0_year_-_2024.3.12.png)](https://github.com/ChenZhu-Xie/PhD_academia/blob/master/2__2.1__Side_Projects_for_Myself/8.1__高_N.A._矢量_紧聚焦_←_Python__4.0_year_-_2024.3.12.pdf "High N.A. - Vector NLAST.pdf")
+[![High N.A. - Vector NLAST.pdf](https://github.com/ChenZhu-Xie/PhD_academia/raw/master/img/8.1__@page_125_←_Python__4.0_year_-_2024.3.12.png)](https://github.com/ChenZhu-Xie/PhD_academia/blob/master/2__Side_Projects/8.1__高_N.A._矢量_紧聚焦_←_Python__4.0_year_-_2024.3.12.pdf "High N.A. - Vector NLAST.pdf")
 
 <!-- test -->
 
