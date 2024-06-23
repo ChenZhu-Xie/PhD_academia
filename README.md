@@ -1,4 +1,4 @@
-[![Wittgenstein - NLAST Philosophy.pdf](https://github.com/ChenZhu-Xie/PhD_academia/raw/master/img/7.1__@page_13_←_Python__3.5_year_-_2023.12.28.png)](https://github.com/ChenZhu-Xie/PhD_academia/blob/master/1__Group_Meeting/6.2__维特根斯坦_←_Python+Visio+BookxNote_Pro+LabView+Latex__3.0_year_-_2023.6.9.pdf "Wittgenstein - NLAST Philosophy.pdf")
+[![Slide for talk: High N.A. - Vector NLAST.pdf](https://github.com/ChenZhu-Xie/PhD_academia/raw/master/img/8.1__@page_1__4.0_year_-_2024.5.31.png)](https://github.com/ChenZhu-Xie/PhD_academia/blob/master/2__Side_Projects/8.1__南京大学博士生创新论坛%20talk%20-%20任意%20ε⁽²⁾、χ⁽³⁾%20电介质%20中的%20解析矢量%20线性、非线性%20傅立叶光学__4.0_year_-_2024.5.31.pdf "Slide for talk: High N.A. - Vector NLAST.pdf")
 
 # PhD Personal Academia
 
@@ -29,6 +29,8 @@
 * Personal group meeting speeches and side projects during PhD studies
     * *Important content* is placed as *files* in the *primary directory*
     * The *detailed information* of *the file* is placed in the form of *a folder* in the *secondary directory* with *the same serial number* as *the file*
+
+[![Wittgenstein - NLAST Philosophy.pdf](https://github.com/ChenZhu-Xie/PhD_academia/raw/master/img/7.1__@page_13_←_Python__3.5_year_-_2023.12.28.png)](https://github.com/ChenZhu-Xie/PhD_academia/blob/master/1__Group_Meeting/6.2__维特根斯坦_←_Python+Visio+BookxNote_Pro+LabView+Latex__3.0_year_-_2023.6.9.pdf "Wittgenstein - NLAST Philosophy.pdf")
 
 [![Analytic 3D vector non-uniform Fourier crystal optics in arbitrary $\bar{\bar{\varepsilon}}$ dielectric.pptx](https://github.com/ChenZhu-Xie/PhD_academia/raw/master/img/7.1__@page_38_←_Python__3.5_year_-_2023.12.28.png)](https://github.com/ChenZhu-Xie/PhD_academia/blob/master/1__Group_Meeting/7.1__中期答辩_谢尘竹_←_Python__3.5_year_-_2023.12.28.pdf "Analytic 3D vector non-uniform Fourier crystal optics in arbitrary $\bar{\bar{\varepsilon}}$ dielectric.pptx")
 

@@ -1,4 +1,4 @@
-[![维特根斯坦 - NLAST 哲学.pdf](https://gitee.com/ChenZhu-Xie/PhD_academia/raw/master/img/7.1__@page_13_←_Python__3.5_year_-_2023.12.28.png)](https://gitee.com/ChenZhu-Xie/PhD_academia/blob/master/1__Group_Meeting/6.2__维特根斯坦_←_Python+Visio+BookxNote_Pro+LabView+Latex__3.0_year_-_2023.6.9.pdf "维特根斯坦 - NLAST 哲学.pdf")
+[![Slide for talk: High N.A. - Vector NLAST.pdf](https://gitee.com/ChenZhu-Xie/PhD_academia/raw/master/img/8.1__@page_1__4.0_year_-_2024.5.31.png)](https://gitee.com/ChenZhu-Xie/PhD_academia/blob/master/2__Side_Projects/8.1__南京大学博士生创新论坛%20talk%20-%20任意%20ε⁽²⁾、χ⁽³⁾%20电介质%20中的%20解析矢量%20线性、非线性%20傅立叶光学__4.0_year_-_2024.5.31.pdf "演讲幻灯片: 高数值孔径矢量非线性角谱.pdf")
 
 # 博士 个人学术
 
@@ -29,6 +29,8 @@
 * 博士 研究生时期 的 个人组会演讲 和 子项目
     * 「重要内容」以「文件」的形式，放在「一级目录」中
     * 「文件」的「详细信息」，以「文件夹」的形式，放在与「文件」有「相同序号」的「二级目录」中
+
+[![维特根斯坦 - NLAST 哲学.pdf](https://gitee.com/ChenZhu-Xie/PhD_academia/raw/master/img/7.1__@page_13_←_Python__3.5_year_-_2023.12.28.png)](https://gitee.com/ChenZhu-Xie/PhD_academia/blob/master/1__Group_Meeting/6.2__维特根斯坦_←_Python+Visio+BookxNote_Pro+LabView+Latex__3.0_year_-_2023.6.9.pdf "维特根斯坦 - NLAST 哲学.pdf")
 
 [![任意 ε 电介质中的解析三维矢量非均匀傅立叶晶体光学.pptx](https://gitee.com/ChenZhu-Xie/PhD_academia/raw/master/img/7.1__@page_38_←_Python__3.5_year_-_2023.12.28.png)](https://gitee.com/ChenZhu-Xie/PhD_academia/blob/master/1__Group_Meeting/7.1__中期答辩_谢尘竹_←_Python__3.5_year_-_2023.12.28.pdf "任意 ε 电介质中的解析三维矢量非均匀傅立叶晶体光学.pptx")
 
